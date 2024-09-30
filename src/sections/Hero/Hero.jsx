@@ -43,7 +43,7 @@ function Hero() {
           <br />
           Yenna
         </h1>
-        <h2>Cybersecuirty Engineer</h2>
+        <h2>Cybersecurity Engineer</h2>
         <span>
    {/*     
           <a href="https://twitter.com/" target="_blank">
