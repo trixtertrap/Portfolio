@@ -1,5 +1,5 @@
 import styles from './CertificationsStyles.module.css';
-import gcp from '../../assets/gcp.png';
+import gcp from '../../assets/PCSE.png';
 import klcp from '../../assets/klcp.png';
 import github from '../../assets/github.png';
 import mitre from '../../assets/mitre.png';
