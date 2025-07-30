@@ -10,8 +10,8 @@ function App() {
   return (
     <>
     <Hero />
-    <Projects />
     <Certifications />
+    <Projects />
     <Skills />
     <Contact />
     <Footer />
