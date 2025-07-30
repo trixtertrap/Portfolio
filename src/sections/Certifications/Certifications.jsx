@@ -14,13 +14,9 @@ function Certifications() {
       <h1 className="sectionTitle">Certifications</h1>
       <div className={styles.certificationsContainer}>
         <ProjectCard
-          src={}
-          link="https://www.credly.com/users/thanujyenna"
-        />
-        <ProjectCard
           src={awsssec}
           link="https://www.credly.com/users/thanujyenna"
-        />
+        /> 
         <ProjectCard
           src={gcp}
           link="https://www.credly.com/users/thanujyenna"
