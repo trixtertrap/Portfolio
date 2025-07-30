@@ -3,10 +3,10 @@ import gcp from '../../assets/PCSE.png';
 import klcp from '../../assets/klcp.png';
 import github from '../../assets/github.png';
 import mitre from '../../assets/mitre.png';
-import ai from '../../assets/ai.png'
+import ai from '../../assets/ai.png';
 import ProjectCard from '../../common/ProjectCard';
-import awsssec from '../../assets/Aws-security.png'
-import awssol from '../../assets/Aws-solutions.png'
+import awsssec from '../../assets/Aws-security.png'; 
+import awssol from '../../assets/Aws-solutions.png';
 
 function Certifications() {
   return (
